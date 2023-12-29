@@ -1,0 +1,20 @@
+body {
+    width: 300px;
+    padding: 10px;
+    text-align: center;
+    font-family: 'Century Gothic';
+    border: 2 px;
+    
+    background-color: rgb(197, 255, 255);
+  }
+  
+  #quoteContainer {
+    margin-bottom: 20px;
+    font-family: 'Century Gothic';
+    font-weight: bold;
+    font-size: medium;
+    
+
+  }
+  
+  

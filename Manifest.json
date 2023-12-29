@@ -1,0 +1,19 @@
+{
+    "manifest_version": 2,
+    "name": "Quote of the Day",
+    "version": "1.0",
+    "description": "Get inspired with a daily quote",
+    "browser_action": {
+      "default_popup": "popup.html",
+      "default_icon": {
+       
+        "128": "icon128.png"
+      }
+    },
+    "icons": {
+     
+      "128": "icon128.png"
+    },
+    "permissions": ["storage", "https://api.quotable.io/"]
+  }
+  
